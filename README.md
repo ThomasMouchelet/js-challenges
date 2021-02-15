@@ -15,7 +15,7 @@ Possibilité d'arrêter ou de redémarrer l'animation avec un bouton
 
  > **Indice :** vous pouvez utiliser la méthode **Math.random()**
 
- > **Indice :** les couleurs prédéfinies sont stockées dans un tableau**
+ > **Indice :** les couleurs prédéfinies sont stockées dans un tableau
 
 ### Bonus
  Générer aléatoirement les couleurs sous forme hexadécimal 
