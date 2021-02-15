@@ -5,7 +5,8 @@
 > **Indice :** vous pouvez utiliser la méthode **charAt()** et **setInterval()**
 
 ### Bonus
-Possibilité d'arrêter ou de redémarrer l'animation avec un bouton
+
+- Possibilité d'arrêter ou de redémarrer l'animation avec un bouton
 
 # Click Color
 
@@ -18,7 +19,8 @@ Possibilité d'arrêter ou de redémarrer l'animation avec un bouton
  > **Indice :** les couleurs prédéfinies sont stockées dans un tableau
 
 ### Bonus
- Les couleurs ne sont prédéfinies dans un tableau, mais elles sont générées aléatoirement sous forme hexadécimale, exemple : #FF5733
+
+- Les couleurs ne sont prédéfinies dans un tableau, mais elles sont générées aléatoirement sous forme hexadécimale, exemple : #FF5733
 
 # Dark Mode
 
@@ -45,5 +47,6 @@ Possibilité d'arrêter ou de redémarrer l'animation avec un bouton
 - Au bout de X secondes, la notification disparaît
 
 ### Bonus
-Ajouter un bouton sur chaque toast permettant de fermer manuellement la notification. 
-Afficher une bare de progression sur chaque toast indiquant le temps avant la fermeture de la notification.
+
+- Ajouter un bouton sur chaque toast permettant de fermer manuellement la notification. 
+- Afficher une bare de progression sur chaque toast indiquant le temps avant la fermeture de la notification.
