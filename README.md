@@ -18,8 +18,7 @@ Possibilité d'arrêter ou de redémarrer l'animation avec un bouton
  > **Indice :** les couleurs prédéfinies sont stockées dans un tableau
 
 ### Bonus
- Générer aléatoirement les couleurs sous forme hexadécimal 
- exemple : #FF5733
+ Les couleurs ne sont prédéfinies dans un tableau, mais elles sont générées aléatoirement sous forme hexadécimale, exemple : #FF5733
 
 # Dark Mode
 
