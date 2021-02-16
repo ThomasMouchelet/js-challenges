@@ -20,13 +20,20 @@
 
 ### Bonus
 
-- Les couleurs ne sont prédéfinies dans un tableau, mais elles sont générées aléatoirement sous forme hexadécimale, exemple : #FF5733
+Les couleurs ne sont plus prédéfinies dans un tableau, mais elles sont générées aléatoirement sous format hexadécimale ou rgb
+- #FF5733 : 6 charactères comportant une lettre ou un chiffre
+- rgb(255,145,20) : 3 nombre compris entre 0 et 255
 
 # Dark Mode
 
 - Changer le mode en dark lorsque l'on clique sur un bouton
 - Le mode dark applique des couleurs foncées en background et des couleurs claires aux textes
 - Lorsque l'ont clique de nouveau sur le bouton le dark mode est annulé
+
+### Bonus
+
+- Persister le dark mode dans le navigateur pour le rechargement de la page.
+> **Indice :** vous pouvez utiliser les **cookies** ou le **localStorage**
 
 # Flake rain
 
