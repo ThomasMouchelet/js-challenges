@@ -49,9 +49,9 @@ Les couleurs ne sont plus prédéfinies dans un tableau, mais elles sont génér
 
 # Toast Notification
 
-- Au clique sur le bouton
-- Afficher une boîte de notification en bas à droite
+- Au clique sur le bouton, afficher une boîte de notification en bas à droite
 - Au bout de X secondes, la notification disparaît
+- Il est possbible d'afficher plusieurs notifications
 
 ### Bonus
 
