@@ -11,17 +11,10 @@
 # Click Color
 
 - Changer la couleur lorsque l'ont clique sur le bouton
-- Plusieurs couleurs sont prédéfinies et lors du clique, elle est sélectionnée aléatoirement
 - La couleur sélectionnée aléatoirement doit être différente de la couleur précédente
 
  > **Indice :** vous pouvez utiliser la méthode **Math.random()**
 
- > **Indice :** les couleurs prédéfinies sont stockées dans un tableau
-
-### Bonus
-
-Les couleurs ne sont plus prédéfinies dans un tableau, mais elles sont générées aléatoirement sous format hexadécimale ou rgb
-- #FF5733 : 6 charactères comportant une lettre ou un chiffre
 - rgb(255,145,20) : 3 nombres compris entre 0 et 255
 
 # Dark Mode
@@ -57,3 +50,26 @@ Les couleurs ne sont plus prédéfinies dans un tableau, mais elles sont génér
 
 - Ajouter un bouton sur chaque toast permettant de fermer manuellement la notification. 
 - Afficher une bare de progression sur chaque toast indiquant le temps avant la fermeture de la notification.
+
+
+# Clash of js
+
+- Créer un formulaire pour ajouter un joueur
+- le formulaire doit contenir un input pour le pseudo et un select pour le type de joueur
+- liste des types de joueurs : archer, giant, goblin, wizard, barbarian
+
+- après avoir soumit le formulaire 
+- créer une card dans le DOM
+- chaque card contient l'image du joueur en fonction du type, son pseudo son xp et son lvl
+- chauqe joueur commence avec 0 xp et lvl 1
+
+- l'orsque l'on clique sur le bouton + de la card
+- les xp du joueur augmente de 10
+- si les xp du joueur sont supérieur à 100
+- alors le lvl du joueur augmente de 
+
+> https://s3-us-west-2.amazonaws.com/s.cdpn.io/195612/archer.png
+> https://s3-us-west-2.amazonaws.com/s.cdpn.io/195612/giant.png
+> https://s3-us-west-2.amazonaws.com/s.cdpn.io/195612/goblin.png
+> https://s3-us-west-2.amazonaws.com/s.cdpn.io/195612/wizard.png
+> https://s3-us-west-2.amazonaws.com/s.cdpn.io/195612/barbarian.png
