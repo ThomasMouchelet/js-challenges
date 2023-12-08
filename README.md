@@ -46,6 +46,16 @@
 - Au bout de X secondes, la notification disparaît
 - Il est possbible d'afficher plusieurs notifications
 
+# Password Generator
+
+- Créer un générateur de mot de passe
+- Le mot de passe doit contenir au moins 8 caractères
+- Le mot de passe doit contenir au moins 1 caractère spécial
+- Le mot de passe doit contenir au moins 1 chiffre
+- Le mot de passe doit contenir au moins 1 lettre majuscule
+- Le mot de passe doit contenir au moins 1 lettre minuscule
+
+
 ### Bonus
 
 - Ajouter un bouton sur chaque toast permettant de fermer manuellement la notification. 
@@ -67,7 +77,6 @@
 - les xp du joueur augmente de 10
 - si les xp du joueur sont supérieur à 100
 - alors le lvl du joueur augmente de 
-
 
 > https://s3-us-west-2.amazonaws.com/s.cdpn.io/195612/archer.png
 > https://s3-us-west-2.amazonaws.com/s.cdpn.io/195612/giant.png
